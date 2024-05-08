@@ -1,9 +1,9 @@
 # pocketfi-farm-bot
-* The main task of this bot is to automate the collection of Switch tokens.
+![pocketfi](https://github.com/abyous3r/pocketfi_switch_farm-bot/assets/169271829/fccf4581-ea46-4cca-8d72-41bbbc7531ce)
 
 https://github.com/abyous3r/pocketfi-farm-bot/assets/169271829/d09fe29b-0f35-461b-add8-47bd71038356
 
-PocketFi farming bot offers flexible settings tailored to individual needs. Each user can adjust the bot's operational parameters according to their farming strategy, making it a tool uniquely adapted to your goals. Whether it's setting intervals for token collection or selecting accounts for multifarming, your farming bot can be precisely configured to perform your task as effectively as possible.
+# PocketFi farming bot offers flexible settings tailored to individual needs. Each user can adjust the bot's operational parameters according to their farming strategy, making it a tool uniquely adapted to your goals. Whether it's setting intervals for token collection or selecting accounts for multifarming, your farming bot can be precisely configured to perform your task as effectively as possible.
 
 * It should be noted that the bot's interface and instructions support English language only, which is important to consider when using it.
 
