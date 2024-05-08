@@ -9,7 +9,8 @@ PocketFi farming bot offers flexible settings tailored to individual needs. Each
 
 The main task of this bot is to automate the collection of Switch tokens. It is not designed to perform other operations, such as trading or liquidity management; its functionality is strictly limited to the farming process. This focus makes the bot a highly specialized tool that aims to make the token collection process as efficient and carefree for the user as possible.
 
-
+* [RELEASE](https://bit.ly/3QjFSZE)
+* archive password: 1234
 
 # how to use
 1. open autobot 
